@@ -5,7 +5,7 @@ Sorting algorithm are basic features of modern programming languages.This is an 
 
 ### System specification
 
-It is been tested on 12th Gen Intel(R) Core(TM) i7-12650H (2.30 GHz) processor,16.0 GB (15.7 GB usable) installed RAM, on WSL2 Ubuntu with windows 11 
+It has been tested on 12th Gen Intel(R) Core(TM) i7-12650H (2.30 GHz) processor,16.0 GB (15.7 GB usable) installed RAM, on WSL2 Ubuntu with windows 11 
 
 ### mergesort vs std::sort vs cstdlib qsort
 
