@@ -10,3 +10,9 @@ The benchmarks were run on a 12th Gen Intel(R) Core(TM) i7-12650H (2.30 GHz) pro
 ### mergesort vs std::sort vs cstdlib qsort
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/0f868d8c-d794-416c-8d17-2dc58f8b5340" />
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0-or-later).  
+See the [LICENSE](./LICENSE) file for details.
+
