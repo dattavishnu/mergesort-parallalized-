@@ -14,5 +14,5 @@ The benchmarks were run on a 12th Gen Intel(R) Core(TM) i7-12650H (2.30 GHz) pro
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0-or-later).  
-See the [LICENSE](./LICENSE) file for details.
+See the [LICENSE](./https://www.gnu.org/licenses/gpl-3.0.txt) file for details.
 
