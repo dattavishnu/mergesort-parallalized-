@@ -1,7 +1,7 @@
 
 # Mergesort with parallel excecution
 
-Sorting algorithm are basic features of modern programming languages.This is an implementation of mergesort in cpp.In tests directory I have compared the excecution speed of mergesort ,cstdlib quicksort,and std::sort(introsort) for various sized arrays.They have been tested with multithreading(except qsort).
+Sorting algorithms are fundamental features of modern programming languages. This project provides an implementation of mergesort in C++. In the tests directory, I compare the execution speed of mergesort, the C standard library’s qsort, and C++’s std::sort (introsort) on arrays of various sizes. They have been tested with multithreading (except for qsort). The mergesort implementation is templated and provides an interface similar to std::sort.
 
 ### System specification
 
